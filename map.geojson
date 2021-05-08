@@ -3,7 +3,16 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Ternes - Maillot",
+        "status": "vote",
+        "end_vote": "01/06/2021"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66,7 +75,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Monceau - Saint-Augustin - Europe",
+        "status": "vote",
+        "end_vote": "04/06/2021"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -125,7 +143,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Blanche - Opéra",
+        "status": "vote",
+        "end_vote": "20/06/2021"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -196,7 +223,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "La Goutte d'Or",
+        "status": "vote"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -247,106 +282,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.3494967445731163,
-              48.88375321549135
-            ],
-            [
-              2.349523901939392,
-              48.88357330849853
-            ],
-            [
-              2.349845767021179,
-              48.883206437331175
-            ],
-            [
-              2.3495882749557495,
-              48.883082970467676
-            ],
-            [
-              2.349797487258911,
-              48.88108629258277
-            ],
-            [
-              2.349872589111328,
-              48.8806770696048
-            ],
-            [
-              2.34932541847229,
-              48.87925181861389
-            ],
-            [
-              2.349057197570801,
-              48.8774243334188
-            ],
-            [
-              2.3482203483581543,
-              48.875773188997584
-            ],
-            [
-              2.355365753173828,
-              48.87438308071262
-            ],
-            [
-              2.355269193649292,
-              48.874150216156636
-            ],
-            [
-              2.3567283153533936,
-              48.873832671833505
-            ],
-            [
-              2.3583054542541504,
-              48.873790332438126
-            ],
-            [
-              2.359474897384643,
-              48.87598487722546
-            ],
-            [
-              2.3610198497772217,
-              48.88036662235362
-            ],
-            [
-              2.354046106338501,
-              48.87855328968476
-            ],
-            [
-              2.3532629013061523,
-              48.87939999016296
-            ],
-            [
-              2.3536813259124756,
-              48.88023256499034
-            ],
-            [
-              2.35432505607605,
-              48.88184122963535
-            ],
-            [
-              2.3554837703704834,
-              48.88393664940594
-            ],
-            [
-              2.355441525578499,
-              48.88415491724984
-            ],
-            [
-              2.3494967445731163,
-              48.88375321549135
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Secrétan",
+        "status": "30/05/2021"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -509,7 +453,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Télégraphe - Pelleport - Saint-Fargeau - Fougères",
+        "status": "vote",
+        "end_vote": "31/05/2021"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
