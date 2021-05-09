@@ -9,6 +9,62 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
+        "name": "République - Saint-Ambroise",
+        "status": "vote",
+        "end_vote": "31/05/2021"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.36823,
+              48.85694
+            ],
+            [
+              2.37861,
+              48.86029
+            ],
+            [
+              2.37695,
+              48.862
+            ],
+            [
+              2.37204,
+              48.86861
+            ],
+            [
+              2.37262,
+              48.86889
+            ],
+            [
+              2.37151,
+              48.87016
+            ],
+            [
+              2.36336,
+              48.86734
+            ],
+            [
+              2.3647,
+              48.86656
+            ],
+            [
+              2.36674,
+              48.8631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Marais Les Iles",
         "status": "vote",
         "end_vote": "31/12/2021"
